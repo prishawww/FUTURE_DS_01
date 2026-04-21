@@ -1,0 +1,201 @@
+Order_ID,Date,Region,Category,Product_Name,Units_Sold,Unit_Price_INR,Revenue_INR,Profit_INR
+ORD-031,2025-01-01,East,Food & Beverages,Protein Bars (10pk),4,300,1200,480
+ORD-192,2025-01-01,West,Food & Beverages,Protein Bars (10pk),7,300,2100,840
+ORD-173,2025-01-02,West,Food & Beverages,Organic Honey 500g,20,450,9000,3420
+ORD-121,2025-01-04,East,Clothing,Winter Jacket,7,4500,31500,11025
+ORD-069,2025-01-05,East,Electronics,"Monitor 24""",5,18000,90000,18000
+ORD-150,2025-01-06,South,Electronics,Wireless Mouse,24,1200,28800,8640
+ORD-163,2025-01-07,East,Food & Beverages,Green Tea 100pk,15,250,3750,1575
+ORD-104,2025-01-13,North,Furniture,Bean Bag,10,3200,32000,11200
+ORD-137,2025-01-14,East,Books & Stationery,Whiteboard Markers,30,180,5400,2700
+ORD-018,2025-01-17,East,Food & Beverages,Energy Drink (24pk),3,150,450,180
+ORD-190,2025-01-19,West,Electronics,Earbuds Pro,5,3500,17500,5250
+ORD-084,2025-01-20,West,Furniture,Ergonomic Chair,8,12000,96000,28800
+ORD-079,2025-01-21,East,Furniture,Ergonomic Chair,2,12000,24000,7200
+ORD-182,2025-01-21,West,Clothing,Casual T-Shirt,1,700,700,294
+ORD-074,2025-01-23,North,Clothing,Running Shoes,5,2800,14000,5040
+ORD-073,2025-01-27,North,Food & Beverages,Coffee Beans 250g,9,550,4950,1782
+ORD-179,2025-01-31,South,Clothing,Casual T-Shirt,15,700,10500,4410
+ORD-056,2025-02-01,East,Electronics,Laptop Pro,10,45000,450000,90000
+ORD-119,2025-02-01,South,Food & Beverages,Green Tea 100pk,29,250,7250,3045
+ORD-038,2025-02-02,East,Electronics,USB Hub,18,900,16200,5670
+ORD-012,2025-02-05,North,Furniture,Filing Cabinet,2,6500,13000,3250
+ORD-087,2025-02-05,East,Clothing,Winter Jacket,9,4500,40500,14175
+ORD-141,2025-02-05,East,Electronics,Webcam HD,8,2200,17600,5280
+ORD-064,2025-02-07,North,Food & Beverages,Dry Fruits Mix 500g,19,600,11400,3990
+ORD-105,2025-02-07,West,Food & Beverages,Organic Honey 500g,19,450,8550,3249
+ORD-130,2025-02-11,West,Electronics,"Tablet 10""",1,25000,25000,5000
+ORD-146,2025-02-14,East,Food & Beverages,Protein Shake 1kg,25,500,12500,4750
+ORD-183,2025-02-16,South,Books & Stationery,Planner 2026,1,400,400,192
+ORD-050,2025-02-17,South,Furniture,Sofa 3-Seater,8,35000,280000,61600
+ORD-153,2025-02-17,East,Furniture,Sofa 3-Seater,4,35000,140000,30800
+ORD-044,2025-02-19,West,Clothing,Winter Jacket,7,4500,31500,11025
+ORD-065,2025-02-21,North,Books & Stationery,Python Programming,17,750,12750,5738
+ORD-008,2025-02-22,North,Food & Beverages,Protein Bars (10pk),12,300,3600,1440
+ORD-142,2025-02-24,West,Clothing,Sneakers,3,3200,9600,3168
+ORD-136,2025-02-28,South,Clothing,Denim Jacket,10,2500,25000,9500
+ORD-165,2025-02-28,North,Food & Beverages,Green Tea 100pk,3,250,750,315
+ORD-070,2025-03-01,North,Books & Stationery,Python Programming,9,750,6750,3038
+ORD-199,2025-03-02,South,Food & Beverages,Organic Honey 500g,10,450,4500,1710
+ORD-140,2025-03-03,North,Clothing,Winter Jacket,6,4500,27000,9450
+ORD-109,2025-03-04,West,Furniture,Bean Bag,9,3200,28800,10080
+ORD-196,2025-03-04,North,Books & Stationery,Python Programming,23,750,17250,7762
+ORD-010,2025-03-05,West,Electronics,"Tablet 10""",5,25000,125000,25000
+ORD-095,2025-03-05,East,Books & Stationery,Notebook Set (5pk),22,350,7700,3850
+ORD-180,2025-03-05,West,Clothing,Winter Jacket,5,4500,22500,7875
+ORD-078,2025-03-07,North,Clothing,Ethnic Kurta,29,1800,52200,19836
+ORD-195,2025-03-09,East,Food & Beverages,Organic Honey 500g,16,450,7200,2736
+ORD-107,2025-03-17,North,Electronics,Webcam HD,4,2200,8800,2640
+ORD-024,2025-03-20,South,Food & Beverages,Dry Fruits Mix 500g,3,600,1800,630
+ORD-028,2025-03-22,West,Electronics,Mechanical Keyboard,9,4000,36000,10800
+ORD-112,2025-03-23,West,Food & Beverages,Energy Drink (24pk),25,150,3750,1500
+ORD-197,2025-03-23,East,Books & Stationery,Data Science Handbook,18,850,15300,6885
+ORD-075,2025-03-24,West,Books & Stationery,Whiteboard Markers,14,180,2520,1260
+ORD-035,2025-03-26,East,Books & Stationery,Planner 2026,14,400,5600,2688
+ORD-102,2025-03-28,North,Clothing,Ethnic Kurta,3,1800,5400,2052
+ORD-016,2025-03-29,South,Furniture,Bean Bag,7,3200,22400,7840
+ORD-185,2025-03-31,West,Books & Stationery,Whiteboard Markers,15,180,2700,1350
+ORD-108,2025-04-01,West,Electronics,"Tablet 10""",4,25000,100000,20000
+ORD-029,2025-04-02,North,Clothing,Sports Shorts,5,800,4000,1600
+ORD-082,2025-04-02,East,Food & Beverages,Coffee Beans 250g,22,550,12100,4356
+ORD-058,2025-04-06,North,Books & Stationery,Data Science Handbook,22,850,18700,8415
+ORD-106,2025-04-10,West,Food & Beverages,Green Tea 100pk,8,250,2000,840
+ORD-177,2025-04-12,West,Electronics,"Tablet 10""",4,25000,100000,20000
+ORD-171,2025-04-17,South,Clothing,Denim Jacket,3,2500,7500,2850
+ORD-015,2025-04-18,East,Electronics,USB Hub,21,900,18900,6615
+ORD-019,2025-04-19,East,Furniture,Bean Bag,7,3200,22400,7840
+ORD-036,2025-04-19,South,Clothing,Winter Jacket,6,4500,27000,9450
+ORD-004,2025-04-22,South,Books & Stationery,Planner 2026,1,400,400,192
+ORD-055,2025-04-22,North,Books & Stationery,Whiteboard Markers,18,180,3240,1620
+ORD-002,2025-04-25,South,Electronics,"Tablet 10""",2,25000,50000,10000
+ORD-160,2025-04-27,East,Furniture,Filing Cabinet,1,6500,6500,1625
+ORD-039,2025-04-28,South,Electronics,Smartphone X,1,55000,55000,11000
+ORD-040,2025-04-28,North,Electronics,Earbuds Pro,2,3500,7000,2100
+ORD-157,2025-04-29,North,Furniture,Study Table,2,9500,19000,5320
+ORD-013,2025-04-30,North,Food & Beverages,Energy Drink (24pk),15,150,2250,900
+ORD-176,2025-04-30,East,Books & Stationery,Whiteboard Markers,26,180,4680,2340
+ORD-059,2025-05-01,West,Electronics,USB Hub,8,900,7200,2520
+ORD-103,2025-05-01,East,Furniture,Ergonomic Chair,3,12000,36000,10800
+ORD-081,2025-05-02,South,Furniture,Sofa 3-Seater,1,35000,35000,7700
+ORD-114,2025-05-03,East,Food & Beverages,Protein Bars (10pk),23,300,6900,2760
+ORD-133,2025-05-03,South,Food & Beverages,Organic Honey 500g,4,450,1800,684
+ORD-172,2025-05-03,South,Books & Stationery,Data Science Handbook,6,850,5100,2295
+ORD-043,2025-05-05,West,Food & Beverages,Protein Shake 1kg,4,500,2000,760
+ORD-021,2025-05-07,East,Books & Stationery,Pen Set Premium,29,200,5800,3016
+ORD-113,2025-05-07,East,Books & Stationery,Pen Set Premium,21,200,4200,2184
+ORD-132,2025-05-07,South,Electronics,USB Hub,5,900,4500,1575
+ORD-083,2025-05-08,East,Furniture,Standing Desk,7,22000,154000,46200
+ORD-026,2025-05-09,North,Electronics,"Tablet 10""",5,25000,125000,25000
+ORD-092,2025-05-11,North,Food & Beverages,Protein Bars (10pk),17,300,5100,2040
+ORD-149,2025-05-13,East,Clothing,Casual T-Shirt,18,700,12600,5292
+ORD-066,2025-05-16,South,Clothing,Denim Jacket,4,2500,10000,3800
+ORD-017,2025-05-19,South,Clothing,Formal Shirt,8,1500,12000,4800
+ORD-159,2025-05-22,East,Electronics,Wireless Mouse,10,1200,12000,3600
+ORD-048,2025-05-23,West,Furniture,Standing Desk,8,22000,176000,52800
+ORD-186,2025-05-23,South,Books & Stationery,Pen Set Premium,21,200,4200,2184
+ORD-071,2025-05-25,South,Clothing,Sports Shorts,22,800,17600,7040
+ORD-115,2025-05-27,South,Clothing,Ethnic Kurta,11,1800,19800,7524
+ORD-167,2025-06-05,North,Furniture,Standing Desk,9,22000,198000,59400
+ORD-154,2025-06-06,East,Food & Beverages,Dry Fruits Mix 500g,17,600,10200,3570
+ORD-062,2025-06-10,South,Clothing,Winter Jacket,3,4500,13500,4725
+ORD-191,2025-06-15,North,Food & Beverages,Coffee Beans 250g,17,550,9350,3366
+ORD-148,2025-06-16,South,Food & Beverages,Protein Shake 1kg,12,500,6000,2280
+ORD-128,2025-06-17,South,Food & Beverages,Energy Drink (24pk),11,150,1650,660
+ORD-088,2025-06-19,North,Electronics,Mechanical Keyboard,3,4000,12000,3600
+ORD-188,2025-06-20,East,Electronics,"Monitor 24""",6,18000,108000,21600
+ORD-046,2025-06-23,North,Furniture,Ergonomic Chair,4,12000,48000,14400
+ORD-007,2025-06-24,East,Furniture,Ergonomic Chair,6,12000,72000,21600
+ORD-164,2025-06-24,South,Electronics,Mechanical Keyboard,8,4000,32000,9600
+ORD-009,2025-06-26,East,Electronics,SSD 1TB,9,5500,49500,14850
+ORD-155,2025-06-26,West,Books & Stationery,Notebook Set (5pk),12,350,4200,2100
+ORD-085,2025-06-29,East,Furniture,Ergonomic Chair,1,12000,12000,3600
+ORD-131,2025-06-29,South,Electronics,Laptop Pro,1,45000,45000,9000
+ORD-080,2025-07-01,West,Books & Stationery,Whiteboard Markers,5,180,900,450
+ORD-032,2025-07-05,East,Furniture,Office Chair,4,4500,18000,5400
+ORD-135,2025-07-08,South,Books & Stationery,Planner 2026,24,400,9600,4608
+ORD-067,2025-07-09,East,Furniture,Bean Bag,9,3200,28800,10080
+ORD-030,2025-07-11,South,Books & Stationery,Planner 2026,30,400,12000,5760
+ORD-138,2025-07-12,West,Furniture,Standing Desk,10,22000,220000,66000
+ORD-052,2025-07-14,North,Food & Beverages,Energy Drink (24pk),30,150,4500,1800
+ORD-129,2025-07-14,East,Food & Beverages,Energy Drink (24pk),27,150,4050,1620
+ORD-117,2025-07-16,South,Furniture,Standing Desk,7,22000,154000,46200
+ORD-025,2025-07-17,West,Books & Stationery,Pen Set Premium,17,200,3400,1768
+ORD-099,2025-07-27,North,Clothing,Casual T-Shirt,7,700,4900,2058
+ORD-118,2025-07-28,East,Books & Stationery,Pen Set Premium,14,200,2800,1456
+ORD-151,2025-07-28,West,Books & Stationery,Python Programming,23,750,17250,7762
+ORD-198,2025-07-28,North,Furniture,Standing Desk,8,22000,176000,52800
+ORD-096,2025-07-29,East,Food & Beverages,Organic Honey 500g,10,450,4500,1710
+ORD-189,2025-07-30,West,Clothing,Winter Jacket,9,4500,40500,14175
+ORD-168,2025-08-02,South,Books & Stationery,Pen Set Premium,15,200,3000,1560
+ORD-100,2025-08-09,East,Food & Beverages,Green Tea 100pk,15,250,3750,1575
+ORD-090,2025-08-11,East,Clothing,Winter Jacket,10,4500,45000,15750
+ORD-143,2025-08-11,South,Books & Stationery,Whiteboard Markers,9,180,1620,810
+ORD-123,2025-08-12,West,Electronics,Webcam HD,6,2200,13200,3960
+ORD-037,2025-08-13,West,Electronics,Wireless Mouse,8,1200,9600,2880
+ORD-169,2025-08-15,East,Books & Stationery,Pen Set Premium,10,200,2000,1040
+ORD-194,2025-08-15,North,Furniture,Filing Cabinet,9,6500,58500,14625
+ORD-006,2025-08-18,East,Electronics,"Monitor 24""",7,18000,126000,25200
+ORD-053,2025-08-21,East,Food & Beverages,Organic Honey 500g,24,450,10800,4104
+ORD-127,2025-08-25,South,Electronics,Mechanical Keyboard,7,4000,28000,8400
+ORD-147,2025-08-26,West,Clothing,Formal Shirt,16,1500,24000,9600
+ORD-045,2025-08-28,North,Electronics,Laptop Pro,7,45000,315000,63000
+ORD-174,2025-08-29,East,Electronics,Wireless Mouse,10,1200,12000,3600
+ORD-152,2025-09-01,West,Food & Beverages,Coffee Beans 250g,1,550,550,198
+ORD-057,2025-09-02,South,Electronics,"Tablet 10""",2,25000,50000,10000
+ORD-051,2025-09-04,South,Food & Beverages,Protein Bars (10pk),6,300,1800,720
+ORD-187,2025-09-09,North,Food & Beverages,Energy Drink (24pk),14,150,2100,840
+ORD-181,2025-09-14,West,Food & Beverages,Protein Bars (10pk),20,300,6000,2400
+ORD-111,2025-09-16,West,Books & Stationery,Pen Set Premium,29,200,5800,3016
+ORD-023,2025-09-18,West,Electronics,Laptop Pro,2,45000,90000,18000
+ORD-200,2025-09-18,East,Food & Beverages,Coffee Beans 250g,16,550,8800,3168
+ORD-091,2025-09-19,North,Food & Beverages,Dry Fruits Mix 500g,7,600,4200,1470
+ORD-041,2025-09-21,South,Clothing,Sneakers,4,3200,12800,4224
+ORD-193,2025-09-23,East,Books & Stationery,Pen Set Premium,21,200,4200,2184
+ORD-034,2025-09-30,South,Furniture,Bean Bag,9,3200,28800,10080
+ORD-047,2025-10-02,West,Furniture,Sofa 3-Seater,3,35000,105000,23100
+ORD-158,2025-10-02,South,Furniture,Ergonomic Chair,10,12000,120000,36000
+ORD-093,2025-10-03,South,Clothing,Winter Jacket,2,4500,9000,3150
+ORD-122,2025-10-03,South,Food & Beverages,Protein Shake 1kg,11,500,5500,2090
+ORD-042,2025-10-04,South,Books & Stationery,Planner 2026,20,400,8000,3840
+ORD-116,2025-10-04,North,Furniture,Bookshelf,5,8000,40000,12000
+ORD-077,2025-10-07,North,Clothing,Running Shoes,9,2800,25200,9072
+ORD-049,2025-10-09,North,Electronics,"Tablet 10""",1,25000,25000,5000
+ORD-097,2025-10-11,South,Furniture,Sofa 3-Seater,9,35000,315000,69300
+ORD-162,2025-10-11,East,Furniture,Bean Bag,2,3200,6400,2240
+ORD-054,2025-10-12,West,Furniture,Ergonomic Chair,6,12000,72000,21600
+ORD-110,2025-10-14,East,Food & Beverages,Dry Fruits Mix 500g,35,600,21000,7350
+ORD-005,2025-10-15,South,Books & Stationery,Pen Set Premium,10,200,2000,1040
+ORD-076,2025-10-15,North,Electronics,Smartphone X,3,55000,165000,33000
+ORD-134,2025-10-16,South,Food & Beverages,Organic Honey 500g,11,450,4950,1881
+ORD-033,2025-10-18,North,Electronics,SSD 1TB,2,5500,11000,3300
+ORD-170,2025-10-19,North,Books & Stationery,Whiteboard Markers,5,180,900,450
+ORD-166,2025-10-23,North,Furniture,Bookshelf,13,8000,104000,31200
+ORD-060,2025-10-24,North,Books & Stationery,Data Science Handbook,18,850,15300,6885
+ORD-089,2025-10-25,East,Electronics,Smartphone X,13,55000,715000,143000
+ORD-022,2025-10-26,West,Clothing,Sports Shorts,6,800,4800,1920
+ORD-120,2025-10-27,North,Books & Stationery,Pen Set Premium,20,200,4000,2080
+ORD-003,2025-10-30,West,Electronics,Laptop Pro,2,45000,90000,18000
+ORD-145,2025-10-31,East,Clothing,Sports Shorts,35,800,28000,11200
+ORD-144,2025-11-12,West,Food & Beverages,Green Tea 100pk,35,250,8750,3675
+ORD-125,2025-11-15,North,Food & Beverages,Dry Fruits Mix 500g,24,600,14400,5040
+ORD-011,2025-11-18,East,Books & Stationery,Python Programming,29,750,21750,9788
+ORD-072,2025-11-21,East,Books & Stationery,Pen Set Premium,11,200,2200,1144
+ORD-014,2025-11-22,East,Furniture,Study Table,7,9500,66500,18620
+ORD-001,2025-11-24,North,Electronics,Mechanical Keyboard,5,4000,20000,6000
+ORD-027,2025-11-25,East,Electronics,Mechanical Keyboard,9,4000,36000,10800
+ORD-020,2025-11-26,West,Furniture,Filing Cabinet,3,6500,19500,4875
+ORD-178,2025-11-28,South,Clothing,Running Shoes,2,2800,5600,2016
+ORD-061,2025-12-03,East,Clothing,Sports Shorts,28,800,22400,8960
+ORD-086,2025-12-04,South,Food & Beverages,Energy Drink (24pk),11,150,1650,660
+ORD-126,2025-12-06,North,Electronics,Webcam HD,3,2200,6600,1980
+ORD-094,2025-12-07,East,Books & Stationery,Notebook Set (5pk),28,350,9800,4900
+ORD-124,2025-12-09,West,Furniture,Bean Bag,3,3200,9600,3360
+ORD-063,2025-12-10,East,Food & Beverages,Energy Drink (24pk),39,150,5850,2340
+ORD-184,2025-12-11,East,Books & Stationery,Data Science Handbook,32,850,27200,12240
+ORD-101,2025-12-12,South,Books & Stationery,Pen Set Premium,33,200,6600,3432
+ORD-098,2025-12-13,South,Books & Stationery,Planner 2026,13,400,5200,2496
+ORD-139,2025-12-20,South,Electronics,Mechanical Keyboard,13,4000,52000,15600
+ORD-156,2025-12-26,West,Clothing,Casual T-Shirt,11,700,7700,3234
+ORD-068,2025-12-27,East,Books & Stationery,Whiteboard Markers,22,180,3960,1980
+ORD-175,2025-12-28,East,Food & Beverages,Protein Bars (10pk),28,300,8400,3360
+ORD-161,2025-12-29,South,Clothing,Formal Shirt,2,1500,3000,1200
